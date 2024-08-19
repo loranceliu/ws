@@ -1,0 +1,1 @@
+/usr/bin/c++  -static-libgcc -static-libstdc++ -g  -static CMakeFiles/ws.dir/src/Event.cpp.o CMakeFiles/ws.dir/src/WebsocketServer.cpp.o CMakeFiles/ws.dir/src/main.cpp.o -o ws  ../../extern/jsoncpp/install/lib/libjsoncpp.a 

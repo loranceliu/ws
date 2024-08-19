@@ -1,0 +1,10 @@
+/opt/code/learn/ws/build/debug/CMakeFiles/ws.dir
+/opt/code/learn/ws/build/debug/CMakeFiles/edit_cache.dir
+/opt/code/learn/ws/build/debug/CMakeFiles/rebuild_cache.dir
+/opt/code/learn/ws/build/debug/extern/CMakeFiles/edit_cache.dir
+/opt/code/learn/ws/build/debug/extern/CMakeFiles/rebuild_cache.dir
+/opt/code/learn/ws/build/debug/extern/boost/CMakeFiles/edit_cache.dir
+/opt/code/learn/ws/build/debug/extern/boost/CMakeFiles/rebuild_cache.dir
+/opt/code/learn/ws/build/debug/extern/jsoncpp/CMakeFiles/jsoncpp.dir
+/opt/code/learn/ws/build/debug/extern/jsoncpp/CMakeFiles/edit_cache.dir
+/opt/code/learn/ws/build/debug/extern/jsoncpp/CMakeFiles/rebuild_cache.dir

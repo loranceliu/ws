@@ -1,0 +1,13 @@
+# Target labels
+ jsoncpp
+# Source files and their labels
+/opt/code/learn/ws/build/debug/extern/jsoncpp/CMakeFiles/jsoncpp
+/opt/code/learn/ws/build/debug/extern/jsoncpp/CMakeFiles/jsoncpp.rule
+/opt/code/learn/ws/build/debug/extern/jsoncpp/CMakeFiles/jsoncpp-complete.rule
+/opt/code/learn/ws/extern/jsoncpp/src/jsoncpp-stamp/jsoncpp-build.rule
+/opt/code/learn/ws/extern/jsoncpp/src/jsoncpp-stamp/jsoncpp-configure.rule
+/opt/code/learn/ws/extern/jsoncpp/src/jsoncpp-stamp/jsoncpp-download.rule
+/opt/code/learn/ws/extern/jsoncpp/src/jsoncpp-stamp/jsoncpp-install.rule
+/opt/code/learn/ws/extern/jsoncpp/src/jsoncpp-stamp/jsoncpp-mkdir.rule
+/opt/code/learn/ws/extern/jsoncpp/src/jsoncpp-stamp/jsoncpp-patch.rule
+/opt/code/learn/ws/extern/jsoncpp/src/jsoncpp-stamp/jsoncpp-update.rule

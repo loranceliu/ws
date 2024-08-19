@@ -1,0 +1,9 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu-24.04 --exec /bin/bash -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /opt/code/learn/ws/build/debug && /usr/local/cmake/cmake-3.22.6-linux-x86_64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S /opt/code/learn/ws -B /opt/code/learn/ws/build/debug"
+Boost version: 1.83.0
+Boost_INCLUDE_DIRS: /usr/include
+Boost_LIBRARY_DIRS: /usr/lib/x86_64-linux-gnu
+Boost_LIBRARIES: Boost::system
+Load jsoncpp from local github
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /opt/code/learn/ws/build/debug
